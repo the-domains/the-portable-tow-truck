@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: "Benefits of The Portable Tow Truck...\_"
-datePublished: '2016-03-20T17:23:43.522Z'
-dateModified: '2016-03-20T17:23:42.973Z'
+datePublished: '2016-03-20T17:35:24.500Z'
+dateModified: '2016-03-20T17:35:20.410Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-20-benefits-of-the-portable-tow-truck.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-20-benefits-of-the-portable-tow-truck.md
-published: true
-url: benefits-of-the-portable-tow-truck/index.html
-_type: Article
+_type: Blurb
 
 ---
 Benefits of The Portable Tow Truck... 
