@@ -6,9 +6,9 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: The Ultimate Tire Traction Device...
-datePublished: '2016-03-20T17:36:24.480Z'
-dateModified: '2016-03-20T17:32:41.703Z'
+description: "...And Black.\_"
+datePublished: '2016-03-20T20:11:55.964Z'
+dateModified: '2016-03-20T20:11:08.618Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-20-the-ultimate-tire-traction-device.md
@@ -22,4 +22,7 @@ publisher:
 _type: Blurb
 
 ---
-...And Black. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e8967c8-4056-4cd6-af39-e81cdcc3619f.jpg)
+...and Black...[Buy Now!][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e8967c8-4056-4cd6-af39-e81cdcc3619f.jpg)
+
+[0]: http://www.amazon.com/gp/product/B001LF6WNW?keywords=portable%20tow%20truck&qid=1458504560&ref_=sr_1_3&sr=8-3
