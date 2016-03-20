@@ -1,28 +1,40 @@
-name: The Portable Tow Truck
-favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.50295
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 1
+  brandStrength: 0.5021482
+  lightness: 1
   brandColors:
     - '#fbf7f8'
     - '#500a03'
     - '#f56000'
     - '#ffad1f'
     - '#a18380'
-  brandStrength: 0
-  lightness: 0
-  saturation: 1
   rhythmicContrast: 1
-purpose: []
+typography_spectrum: 0.50295
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: The Portable Tow Truck
