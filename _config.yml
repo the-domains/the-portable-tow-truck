@@ -1,0 +1,28 @@
+name: The Portable Tow Truck
+favicon: null
+layout_spectrum: 0.3052210104651749
+typography_spectrum: 0.9219762361608446
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.14090809994377196
+  lightness: 0.674484412651509
+  saturation: 0.9898420132230967
+  rhythmicContrast: 0.958324312698096
+purpose: []
